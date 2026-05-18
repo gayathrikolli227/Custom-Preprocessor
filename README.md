@@ -1,6 +1,6 @@
-# Custom-Preprocessor
+# ⚙️ Custom C Preprocessor
 
-## Overview
+## 📖 Overview
 This project implements a custom C preprocessor tool named **mypreprocessor**.  
 The program reads a C source file, performs preprocessing operations, and generates an extended source file with a **.i** extension.
 
@@ -12,7 +12,7 @@ The preprocessor performs:
 ---
 
 
-## Features
+## ✨ Features
 ✅ Removes single-line comments (`//`)  
 ✅ Removes multi-line comments (`/* ... */`)  
 ✅ Processes `#include <filename>` directives  
@@ -22,7 +22,7 @@ The preprocessor performs:
 
 ---
 
-## Technologies Used
+## 💻 Technologies Used
 - C Programming
 - File Handling
 - String Manipulation
@@ -30,7 +30,7 @@ The preprocessor performs:
 
 ---
 
-## Project Files
+## 📂 Project Files
 
 | File Name | Description |
 |-----------|-------------|
@@ -41,7 +41,7 @@ The preprocessor performs:
 
 ---
 
-## Project Workflow
+## 🔄 Project Workflow
 
 ```text
 Input C File
@@ -57,7 +57,7 @@ Generate .i File
 
 ---
 
-## Compilation
+## ⚙️ Compilation
 
 ```bash
 gcc preprocessor.c -o mypreprocessor
@@ -65,7 +65,7 @@ gcc preprocessor.c -o mypreprocessor
 
 ---
 
-## Execution
+## ▶️ Execution
 
 ```bash
 ./mypreprocessor inputfile.c
@@ -135,7 +135,7 @@ int main()
 
 ---
 
-## Learning Outcomes
+## 🎯 Learning Outcomes
 - Understanding of C preprocessing concepts
 - File handling in C
 - String parsing and manipulation
@@ -144,7 +144,7 @@ int main()
 
 ---
 
-## Future Enhancements
+## 🚀 Future Enhancements
 - Support function-like macros
 - Support nested header files
 - Support conditional compilation directives
