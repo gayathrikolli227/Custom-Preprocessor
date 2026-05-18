@@ -151,6 +151,3 @@ int main()
 - Improved formatting and indentation
 
 ---
-
-## Author
-**Gayathri Kolli**
