@@ -27,6 +27,5 @@ int main()
         /* Display message using macro replacement */
         printf(MESSAGE);
 
-        /* Program termination */
         return 0;
 }
